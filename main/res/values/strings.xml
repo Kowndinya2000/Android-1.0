@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Android 1.0</string>
+    <string name="designer"><![CDATA[<> Developer/ Designer]]></string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="donate">Donate</string>
+    <string name="kowndinya_b">Kowndinya B</string>
+    <string name="kowndi_gmail_com">kowndi@gmail.com</string>
+    <string name="rate_this_app">Rate this App</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="home">Home</string>
+    <string name="opens">open</string>
+    <string name="closes">close</string>
+    <string name="enter_message">Provide us detailed feedback</string>
+    <string name="android_1_0">Android 1.0</string>
+    <string name="rate_here">Rate here</string>
+    <string name="help_donate">I would be grateful If you could help by donating me.</string>
+    <string name="strings_app">In android you can define your own custom fonts for the strings in your application</string>
+    <string name="defaults">Default</string>
+    <string name="customfonts">CustomFonts</string>
+</resources>
